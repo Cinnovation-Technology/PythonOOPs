@@ -46,8 +46,8 @@ class SuperCar(Car):
 #values alloted to variables (variable = honda and tata)
 
 honda = SuperCar('HONDA CITY',2020,1000000)
-tata = Car('TATA NEXON', 2021, 2200000)
-
+tata = Car('TATA NEXON', 2021, 1400000)
+mahindra = Car('Mahindra XUV700' , 2021 , 1800000)  
 #print(help(honda))
 
 honda.price_inc()
