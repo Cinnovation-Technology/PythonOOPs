@@ -52,3 +52,6 @@ mahindra = Car('Mahindra XUV700' , 2021 , 1800000)
 
 honda.price_inc()
 print(honda.price)
+
+
+1st[0]--> 10
